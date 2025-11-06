@@ -6,6 +6,8 @@
 
 Check out the `main.py` to get started.
 
+![running result](docs/running%20result.png)
+
 <details>
 <summary><b>📁 File Structure</b></summary>
 
