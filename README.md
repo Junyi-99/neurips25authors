@@ -1,9 +1,16 @@
 # NeurIPS 2025 Statistics
 
----
+## How to use
+
+`neurips25_author_profiles.csv` contains `20,934` public author profiles, including `18` columns.
+
+check out the `main.py`
+
 
 ## File Structure
 
+- `main.py`: Main script to load author profiles
+- `neurips25_author_profiles.csv`: Author profiles CSV file
 - `raw/`: Data fetching and processing scripts
   - `1. fetch.py`: Fetch paper lists in `oral/spotlight/poster` format
   - `2. get_author_ids.py`: Extract unique `authorids` from paper JSON
