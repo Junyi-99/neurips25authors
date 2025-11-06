@@ -1,0 +1,272 @@
+{
+  "invitation": "~/-/profiles",
+  "signatures": [
+    "~A_Erdem_Sa\u011ftekin1"
+  ],
+  "content": {
+    "preferredEmail": "****@nyu.edu",
+    "gender": "Male",
+    "homepage": "https://aesagtekin.github.io",
+    "gscholar": "https://scholar.google.com/citations?user=wUwGim8AAAAJ&hl=en",
+    "dblp": "https://dblp.org/pid/372/3366",
+    "emails": [
+      "****@student.uni-tuebingen.de",
+      "****@nyu.edu",
+      "****@gmail.com"
+    ],
+    "names": [
+      {
+        "preferred": true,
+        "fullname": "A Erdem Sa\u011ftekin",
+        "username": "~A_Erdem_Sa\u011ftekin1"
+      }
+    ],
+    "history": [
+      {
+        "position": "Researcher",
+        "start": 2024,
+        "end": 2025,
+        "institution": {
+          "domain": "flatironinstitute.org",
+          "name": "Flatiron Institute",
+          "country": "US",
+          "stateProvince": "New York",
+          "city": "New York City",
+          "department": "Center for Computational Neuroscience"
+        }
+      },
+      {
+        "position": "MS student",
+        "start": 2022,
+        "end": 2024,
+        "institution": {
+          "domain": "uni-tuebingen.de",
+          "name": "Eberhard-Karls-Universit\u00e4t T\u00fcbingen",
+          "department": "Computational Neuroscience",
+          "city": "T\u00fcbingen",
+          "stateProvince": "Baden-W\u00fcrttemberg",
+          "country": "DE"
+        }
+      },
+      {
+        "position": "Undergrad student",
+        "start": 2018,
+        "end": 2022,
+        "institution": {
+          "domain": "itu.edu.tr",
+          "name": "Istanbul Technical University",
+          "country": "TR",
+          "stateProvince": null,
+          "city": "Istanbul",
+          "department": "Faculty of Electrical and Electronics Engineering"
+        }
+      }
+    ],
+    "expertise": [
+      {
+        "keywords": [
+          "computational neuroscience"
+        ],
+        "start": null,
+        "end": null
+      },
+      {
+        "keywords": [
+          "dynamical systems"
+        ],
+        "start": null,
+        "end": null
+      },
+      {
+        "keywords": [
+          "recurrent neural networks"
+        ],
+        "start": null,
+        "end": null
+      },
+      {
+        "keywords": [
+          "bio-plausible learning"
+        ],
+        "start": null,
+        "end": null
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Coworker",
+        "username": "~Cristina_Savin1",
+        "name": "Cristina Savin",
+        "start": 2024,
+        "end": 2025,
+        "readers": [
+          "everyone"
+        ]
+      },
+      {
+        "relation": "Coworker",
+        "username": "~Colin_Bredenberg1",
+        "name": "Colin Bredenberg",
+        "start": 2024,
+        "end": 2025,
+        "readers": [
+          "everyone"
+        ]
+      },
+      {
+        "relation": "Coworker",
+        "username": "~Matthijs_Pals1",
+        "name": "Matthijs Pals",
+        "start": 2023,
+        "end": 2024,
+        "readers": [
+          "everyone"
+        ]
+      },
+      {
+        "relation": "Coworker",
+        "username": "~Jakob_H._Macke1",
+        "name": "Jakob H. Macke",
+        "start": 2023,
+        "end": 2024,
+        "readers": [
+          "everyone"
+        ]
+      }
+    ],
+    "emailsConfirmed": [
+      "****@student.uni-tuebingen.de",
+      "****@nyu.edu",
+      "****@gmail.com"
+    ]
+  },
+  "metaContent": {
+    "preferredEmail": {
+      "signatures": [
+        "~A_Erdem_Sa\u011ftekin1"
+      ]
+    },
+    "gender": {
+      "signatures": [
+        "~A_Erdem_Sa\u011ftekin1"
+      ]
+    },
+    "yearOfBirth": {
+      "signatures": [
+        "~A_Erdem_Sa\u011ftekin1"
+      ]
+    },
+    "homepage": {
+      "signatures": [
+        "~A_Erdem_Sa\u011ftekin1"
+      ]
+    },
+    "gscholar": {
+      "signatures": [
+        "~A_Erdem_Sa\u011ftekin1"
+      ]
+    },
+    "dblp": {
+      "signatures": [
+        "~A_Erdem_Sa\u011ftekin1"
+      ]
+    },
+    "emails": [
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      },
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      },
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      }
+    ],
+    "names": [
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      },
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      },
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      }
+    ],
+    "expertise": [
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      },
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      },
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      },
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      },
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      },
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      },
+      {
+        "signatures": [
+          "~A_Erdem_Sa\u011ftekin1"
+        ]
+      }
+    ]
+  },
+  "id": "~A_Erdem_Sa\u011ftekin1",
+  "tcdate": 1709146053913,
+  "tmdate": 1754601056520,
+  "tauthor": "OpenReview.net",
+  "active": true,
+  "password": true,
+  "readers": [
+    "everyone"
+  ],
+  "writers": [
+    "OpenReview.net"
+  ]
+}
