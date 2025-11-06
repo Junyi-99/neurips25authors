@@ -4,10 +4,10 @@
 
 `neurips25_author_profiles.csv` contains `20,934` public author profiles, including `18` columns.
 
-check out the `main.py`
+Check out the `main.py` to get started.
 
-
-## File Structure
+<details>
+<summary><b>📁 File Structure</b></summary>
 
 - `main.py`: Main script to load author profiles
 - `neurips25_author_profiles.csv`: Author profiles CSV file
@@ -20,7 +20,10 @@ check out the `main.py`
   - `6. convert_author_to_csv.py`: Convert author profiles to CSV
   - `data/`: Data output directory (generated after running scripts, containing JSON/CSV files)
 
-## Environment Requirements
+</details>
+
+<details>
+<summary><b>⚙️ Environment Requirements</b></summary>
 
 - Python 3.9+
 
@@ -28,7 +31,10 @@ check out the `main.py`
 pip install pandas tqdm openreview requests
 ```
 
-## Run the scripts (in `raw/` directory)
+</details>
+
+<details>
+<summary><b>🚀 Run the scripts (in `raw/` directory)</b></summary>
 
 1) Fetch paper lists in `oral/spotlight/poster` format (can switch `VENUE` at the top of the script)
 
@@ -83,4 +89,6 @@ python "6. convert_author_to_csv.py"
 Output:
 - If not exists, generate `data/author_map.json`
 - Generate `data/neurips25_author_profiles.csv`
+
+</details>
 
